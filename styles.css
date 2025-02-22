@@ -1,6 +1,24 @@
 body {
-  font-family: sans-serif;
+  font-family: monospace;
   background-color: #181c1f;
   color: #bdd1d4;
   margin: 2rem;
+}
+
+h1 {
+  color: #ddd83b;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: #dd873b;
+  text-decoration: none;
+}
+
+p {
+  font-size: 0.5em;
 }
